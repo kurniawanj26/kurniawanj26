@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jayadi Kurniawan</h1>
 <h3 align="center">A passionate mobile app developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif?cid=ecf05e47gk9w4hqk20zl3yqvgz6x1do49hf7tdsbae9ht3pr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
