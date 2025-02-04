@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniawanj26&label=Profile%20views&color=0e75b6&style=flat" alt="kurniawanj26" /> </p>
 
-- 🔭 I’m currently working on my own project [Kura](https://github.com/kurniawanj26/kura)
+- 🔭 I’m currently working on my own project ***Gau Delivery***
 
 - 🌱 I’m currently learning **SwiftUI**
 
